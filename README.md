@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e81ac,100:81a1c1&height=120&section=header&text=Hi%20👋%20I'm%20Amr%20AL-waeli&fontSize=28&fontColor=ffffff&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3440,100:4c566a&height=120&section=header&text=Hi%20👋%20I'm%20Amr%20AL-waeli&fontSize=28&fontColor=ffffff&fontAlignY=55" />
 
 ### A passionate full-stack developer
 
@@ -48,4 +48,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e81ac,100:81a1c1&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3440,100:4c566a&height=80&section=footer" />
