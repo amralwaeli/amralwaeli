@@ -101,29 +101,6 @@ fun_fact: "I can explain JavaScript scope... but I'm not sure I understand it �
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amralwaeli&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" alt="Trophies"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amralwaeli/amralwaeli/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amralwaeli/amralwaeli/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amralwaeli/amralwaeli/output/github-snake.svg" />
-  </picture>
-</div>
-
-> ⚠️ **Note:** To enable the snake animation, add this GitHub Action to your profile repo:  
-> Create `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk) for setup instructions.
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
